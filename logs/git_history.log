@@ -1,0 +1,7 @@
+* 764ccc7 - 2312646 - Tran Quoc Khanh (Fri Oct 16 14:49:44 2026 +0700): Tiet 4: them upload artifact coverage
+* 630d5d2 - 2312646 - Tran Quoc Khanh (Fri Oct 16 14:47:59 2026 +0700): Tiet 4: go loi cu phap, khoi phuc build
+* 3cdba45 - 2312646 - Tran Quoc Khanh (Fri Oct 16 14:45:31 2026 +0700): Tiet 4: co tinh pha build bang loi cu phap
+* fd76e3b - 2312646 - Tran Quoc Khanh (Fri Oct 16 14:43:13 2026 +0700): Tiet 3: bo sung test Mocking, dat coverage >= 85%
+* dc5040d - 2312646 - Tran Quoc Khanh (Fri Oct 16 14:17:48 2026 +0700): Tiet 3: bat Quality Gate 80% (du kien do)
+* d3b86dc - 2312646 - Tran Quoc Khanh (Fri Oct 16 14:14:20 2026 +0700): Tiet 2: them workflow CI co ban
+* 876a0ae - 2312646 - Tran Quoc Khanh (Fri Oct 16 14:09:37 2026 +0700): Tiet 1: khoi tao du an va test co ban
