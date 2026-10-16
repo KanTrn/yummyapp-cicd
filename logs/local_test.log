@@ -1,8 +1,4 @@
-....
-----------------------------------------------------------------------
-Ran 4 tests in 0.001s
-
-OK
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
 Name                Stmts   Miss  Cover   Missing
 -------------------------------------------------
 gps_service.py          4      1    75%   11
